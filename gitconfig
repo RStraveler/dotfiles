@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = rogerioa.farinha@gmail.com
+	name = rogerio silva
